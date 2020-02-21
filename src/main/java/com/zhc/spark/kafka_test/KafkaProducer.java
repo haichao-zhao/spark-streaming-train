@@ -1,4 +1,4 @@
-package com.zhc.spark.kafka;
+package com.zhc.spark.kafka_test;
 
 import kafka.javaapi.producer.Producer;
 import kafka.producer.KeyedMessage;

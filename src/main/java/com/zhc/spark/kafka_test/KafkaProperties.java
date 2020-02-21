@@ -1,4 +1,4 @@
-package com.zhc.spark.kafka;
+package com.zhc.spark.kafka_test;
 
 /**
  * Kafka常用配置文件属性
